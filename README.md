@@ -17,5 +17,3 @@ I'm a young developer, I'm doing something and it's going to be good. <br><br>Tr
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IanW-u&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=IanW-u&icon=2&color=12)](https://visitcount.itsvg.in)
