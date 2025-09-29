@@ -1,4 +1,4 @@
-# Ian-Wu
+# Ian Wu
 
 # About Me:
 I'm a young developer, I'm doing something and it's going to be good. <br><br>Trust me.
