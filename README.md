@@ -1,7 +1,7 @@
 # Ian Wu
 
 ## About Me:
-I'm a young developer, I'm doing something and it's going to be good. <br><br>Trust me.
+I'm doing something and it's going to be good. <br><br>Trust me.
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianw-u) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ian.awesome.tube@gmail.com) 
